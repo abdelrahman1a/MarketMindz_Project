@@ -71,10 +71,4 @@ The project is organized into the following categories and steps:
 
 ---
 
-## How to Use This Project
-1. **Clone the Repository**: Download or clone the project files to your local machine.
-2. **Open the Dataset**: Load the dataset into PowerQuery Editor or your preferred tool.
-3. **Review the Analysis**: Explore the cleaned data, visualizations, and insights.
-4. **Generate Reports**: Use the provided templates or create custom reports based on your needs.
-
 Thank you for exploring Market_MINDZ! Let’s make data-driven marketing decisions together. 🚀
